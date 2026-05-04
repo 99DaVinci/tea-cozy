@@ -1,6 +1,7 @@
 THE TEA COZY
 
 PROJECT DESCRIPTION
+
 The Tea Cozy is a website project focused on creating a clean, professional layout using HTML and CSS. The site features a fixed navigation bar, a mission statement hero section, a product gallery grid, and a locations section, all styled to match specific design requirements.
 
 SETUP / RUN INSTRUCTIONS
