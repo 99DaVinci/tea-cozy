@@ -14,6 +14,9 @@ Ensure the images folder (containing the .png files) is also in that same main f
 Open index.html in any web browser to view the site.
 
 STUDENT INFORMATION
+
 Name: Hamas Ahmed
+
 Roll Number: 2700
+
 Program: BS Computer Science
